@@ -33,12 +33,12 @@ function App() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const stats = [
-    { number: '200+', label: 'Startups Supported' },
-    { number: '15K+', label: 'Community Members' },
-    { number: '50+', label: 'Mentors & Experts' },
-    { number: '10M+', label: 'Funding Facilitated' }
-  ];
+  // const stats = [
+  //   { number: '200+', label: 'Startups Supported' },
+  //   { number: '15K+', label: 'Community Members' },
+  //   { number: '50+', label: 'Mentors & Experts' },
+  //   { number: '10M+', label: 'Funding Facilitated' }
+  // ];
 
   const facilities = [
     {
@@ -86,7 +86,7 @@ function App() {
     {
       icon: <Zap className="w-8 h-8" />,
       title: 'Skills Development',
-      description: 'Training programs in emerging technologies, entrepreneurship, and digital literacy.'
+      description: 'Training programs in emerging technologies, entrepreneurship and digital literacy.'
     }
   ];
 
@@ -116,7 +116,7 @@ function App() {
                 <Rocket className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent">
-                South Rift Innovation Hub
+                South Rift Digital & Innovation Hub
               </span>
             </div>
 
@@ -172,7 +172,7 @@ function App() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
           <div className="animate-fade-in-up">
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-              South Rift
+              South Rift Digital &
               <span className="block bg-gradient-to-r from-green-400 to-blue-400 bg-clip-text text-transparent">
                 Innovation Hub
               </span>
@@ -386,7 +386,7 @@ function App() {
                 </span>
               </h2>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                Connect with entrepreneurs, developers, students, and industry leaders who are 
+                Connect with entrepreneurs, developers, students and industry leaders who are 
                 driving technological advancement and economic growth in the South Rift region.
               </p>
               <div className="space-y-4">
@@ -408,7 +408,7 @@ function App() {
             <div className="relative">
               <div className="bg-gradient-to-r from-green-600 to-blue-600 rounded-2xl p-8 text-white">
                 <h3 className="text-2xl font-bold mb-4">Ready to Innovate?</h3>
-                <p className="mb-6">Join South Rift Innovation Hub today and be part of the region's most dynamic tech community.</p>
+                <p className="mb-6">Join South Rift Digital & Innovation Hub today and be part of the region's most dynamic tech community.</p>
                 <button className="bg-white text-green-600 px-6 py-3 rounded-full font-semibold hover:shadow-lg transition-shadow">
                   Apply for Membership
                 </button>
@@ -492,7 +492,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 South Rift Innovation Hub. All rights reserved.</p>
+            <p>&copy; 2025 South Rift Digital & Innovation Hub. All rights reserved.</p>
           </div>
         </div>
       </footer>
