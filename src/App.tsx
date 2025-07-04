@@ -116,7 +116,7 @@ function App() {
                 <Rocket className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent">
-                South Rift Digital & Innovation Hub
+                South Rift Digital&Innovation Hub
               </span>
             </div>
 
@@ -172,9 +172,9 @@ function App() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
           <div className="animate-fade-in-up">
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-              South Rift Digital &
+              South Rift Digital
               <span className="block bg-gradient-to-r from-green-400 to-blue-400 bg-clip-text text-transparent">
-                Innovation Hub
+                &Innovation Hub
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-200 mb-8 max-w-3xl mx-auto leading-relaxed">
@@ -408,7 +408,7 @@ function App() {
             <div className="relative">
               <div className="bg-gradient-to-r from-green-600 to-blue-600 rounded-2xl p-8 text-white">
                 <h3 className="text-2xl font-bold mb-4">Ready to Innovate?</h3>
-                <p className="mb-6">Join South Rift Digital & Innovation Hub today and be part of the region's most dynamic tech community.</p>
+                <p className="mb-6">Join South Rift Digital&Innovation Hub today and be part of the region's most dynamic tech community.</p>
                 <button className="bg-white text-green-600 px-6 py-3 rounded-full font-semibold hover:shadow-lg transition-shadow">
                   Apply for Membership
                 </button>
@@ -434,7 +434,7 @@ function App() {
             <div className="bg-white/10 backdrop-blur-md p-8 rounded-2xl">
               <MapPin className="w-8 h-8 text-white mx-auto mb-4" />
               <h3 className="text-xl font-semibold text-white mb-2">Visit Us</h3>
-              <p className="text-green-100">South Rift Innovation Center<br />Bomet County, Kenya</p>
+              <p className="text-green-100">South Rift Digital&Innovation Hub<br />Bomet County, Kenya</p>
             </div>
             <div className="bg-white/10 backdrop-blur-md p-8 rounded-2xl">
               <Mail className="w-8 h-8 text-white mx-auto mb-4" />
@@ -459,7 +459,7 @@ function App() {
                 <div className="w-8 h-8 bg-gradient-to-r from-green-600 to-blue-600 rounded-lg flex items-center justify-center">
                   <Rocket className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">South Rift Innovation Hub</span>
+                <span className="text-xl font-bold">South Rift Digital&Innovation Hub</span>
               </div>
               <p className="text-gray-400">Empowering innovation and entrepreneurship in the South Rift region.</p>
             </div>
