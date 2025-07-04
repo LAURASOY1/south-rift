@@ -202,7 +202,7 @@ function App() {
         <div className="absolute top-1/2 left-20 w-16 h-16 bg-yellow-200 rounded-full opacity-20 animate-float-slow"></div>
       </section>
 
-      {/* Stats Section */}
+{/*       stats section
       <section className="py-20 bg-gradient-to-r from-green-600 to-blue-600">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
@@ -214,7 +214,7 @@ function App() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Services Section */}
       <section id="services" className="py-20 bg-gray-50">
