@@ -162,12 +162,12 @@ function App() {
       {/* Hero Section */}
       <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
         {/* Background Image */}
-        <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-         style={{
-         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/public/background_img.png')`
-         }}
-         ></div>
+       <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/background_img.png')`
+          }}
+        ></div>
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
           <div className="animate-fade-in-up">
