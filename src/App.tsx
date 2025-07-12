@@ -44,13 +44,13 @@ function App() {
     {
       icon: <Coffee className="w-8 h-8" />,
       title: 'Public Area',
-      description: 'Open collaborative space with public services, networking areas, and community resources.',
+      description: 'Open collaborative space with public services, networking areas and community resources.',
       bookable: false
     },
     {
       icon: <Volume2 className="w-8 h-8" />,
       title: 'Silent Room',
-      description: 'Quiet study space perfect for exams, focused work, and individual learning sessions.',
+      description: 'Quiet study space perfect for exams, focused work and individual learning sessions.',
       bookable: true
     },
     {
@@ -76,7 +76,7 @@ function App() {
     {
       icon: <Users className="w-8 h-8" />,
       title: 'Community Network',
-      description: 'Connect with entrepreneurs, developers, and industry leaders in the South Rift region.'
+      description: 'Connect with entrepreneurs, developers and industry leaders in the South Rift region.'
     },
     {
       icon: <Rocket className="w-8 h-8" />,
@@ -116,7 +116,7 @@ function App() {
                 <Rocket className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent">
-                South Rift Digital&Innovation Hub
+                South Rift Digital & Innovation Hub
               </span>
             </div>
 
