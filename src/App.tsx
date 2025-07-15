@@ -154,9 +154,11 @@ function App() {
         'University Partnership Certification Programs'
       ],
       'Research & Innovation': [
+        'Research Methodologies in Computing',
+        'Research Tools',
         'Research and Startup Incubation',
         'Partnership Development Programs',
-        'Advanced Project Management'
+        
       ]
     }
   };
