@@ -104,38 +104,38 @@ function App() {
       'Digital Literacy & Basic Computer Skills': [
         'Introduction to Computers & Operating Systems (Windows, macOS, Linux)',
         'Social Impact in ICT',
-        'Email & Communication Tools (Gmail, Outlook)',
-        'Microsoft Office Suite (Word, Excel, PowerPoint)',
-        'Google Workspace (Docs, Sheets, Slides, Forms)',
+        'Email & Communication',
+        'Microsoft Office Suite ',
+        'Google Workspace',
         'Intro to Web Development - HTML, CSS, JS, Hosting and Domain',
-        'Network and CCTV Installation - Setup, Manage and Troubleshoot',
+        'Network and CCTV Installation ',
         'Phone Repairs',
         'Computer Repairs'
       ],
       'Digital Marketing & Entrepreneurship': [
         'Introduction to Social Media',
-        'Social Media Marketing (Facebook, Instagram, LinkedIn, TikTok)',
-        'Search Engine Optimization (SEO) & Content Marketing',
+        'Social Media Marketing',
+        'Search Engine Optimization & Content Marketing',
         'Google Ads & Facebook Ads',
-        'Email Marketing (Mailchimp, ConvertKit)',
+        'Email Marketing',
         'Personal Branding & Online Business Setup',
-        'E-commerce (Shopify, WooCommerce)'
+        'E-commerce'
       ],
       'Creative Design & Multimedia': [
         'Graphic Design (Canva, Adobe Photoshop, Illustrator)',
         'Video Editing (CapCut, Adobe Premiere Pro, DaVinci Resolve)',
-        'Photography & Photo Editing (Lightroom, Snapseed)',
+        'Photography & Photo Editing',
         'UI/UX Design (Figma, Adobe XD)'
       ]
     },
     'Level 2': {
       'Coding & Software Development': [
-        'Introduction to Programming (Python, JavaScript, Scratch)',
-        'Full-Stack Development (HTML, CSS, JavaScript, WordPress, Python)',
-        'Database Management (SQL, Firebase)',
-        'Version Control (Git & GitHub)',
-        'Frontend Development - React.js',
-        'Mobile App Development (Flutter, Kotlin, Swift)',
+        'Introduction to Programming',
+        'Full-Stack Development',
+        'Database Management',
+        'Version Control',
+        'Frontend Development ',
+        'Mobile App Development',
         'Software Testing & Debugging',
         'Cybersecurity',
         'Intro to Game Development'
