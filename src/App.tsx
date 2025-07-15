@@ -58,7 +58,7 @@ function App() {
     },
     {
       title: 'Silent Room',
-      description: 'Quiet study space perfect for exams, focused work, and individual learning sessions.',
+      description: 'Quiet study space perfect for exams, focused work and individual learning sessions.',
       bookable: true,
       image: 'https://images.pexels.com/photos/159213/hall-congress-architecture-building-159213.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
@@ -78,6 +78,11 @@ function App() {
 
   const services = [
     {
+      icon: <Zap className="w-8 h-8" />,
+      title: 'Skills Development',
+      description: 'Training programs in emerging technologies, entrepreneurship, and digital literacy.'
+    }
+    {
       icon: <Code className="w-8 h-8" />,
       title: 'Innovation Labs',
       description: 'State-of-the-art development spaces fostering creativity and technological advancement.'
@@ -92,11 +97,6 @@ function App() {
       title: 'Startup Incubation',
       description: 'Comprehensive support from idea validation to market launch and scaling.'
     },
-    {
-      icon: <Zap className="w-8 h-8" />,
-      title: 'Skills Development',
-      description: 'Training programs in emerging technologies, entrepreneurship, and digital literacy.'
-    }
   ];
 
   const courseCategories = {
