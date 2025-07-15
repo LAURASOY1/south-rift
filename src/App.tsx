@@ -81,7 +81,7 @@ function App() {
       icon: <Zap className="w-8 h-8" />,
       title: 'Skills Development',
       description: 'Training programs in emerging technologies, entrepreneurship, and digital literacy.'
-    }
+    },
     {
       icon: <Code className="w-8 h-8" />,
       title: 'Innovation Labs',
@@ -96,7 +96,7 @@ function App() {
       icon: <Rocket className="w-8 h-8" />,
       title: 'Startup Incubation',
       description: 'Comprehensive support from idea validation to market launch and scaling.'
-    },
+    }
   ];
 
   const courseCategories = {
