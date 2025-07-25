@@ -481,7 +481,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url("/public/background_img.jpg")'
+            backgroundImage: 'url("/background_img.jpg")'
           }}
         ></div>
         <div className="absolute inset-0 bg-gradient-to-b from-purple-50/70 via-white/60 to-white/70"></div>
